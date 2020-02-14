@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Calculator</string>
+    <string name="app_name">caculator</string>
     <string name="square_root_symbol">\u221a</string>
     <string name="del_button">\u232b</string>
     <string name="power2">x\u00B2</string>
